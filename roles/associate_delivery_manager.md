@@ -12,7 +12,7 @@ As an Associate Delivery Manager, you will work alongside a more senior delivery
 
 Although you will probably not have experience managing software delivery, you’ll use cross-functional skills to support your delivery team. Initially you will expect the majority of your tasks to be directed by your Delivery partner, but you will start to identify items you can support autonomously during team ceremonies and sprint planning. 
 
-You use empathy and effective listening to help the team collaborate. You will use your previous project management experience to support the identification and management of project dependencies, risks and issues alongside your Delivery Lead. After observing team ceremonies and building relationships with the client stakeholders, you will start to take responsibility for running meetings, answering client questions and unblocking tram problems. 
+You use empathy and effective listening to help the team collaborate. You will use your previous project management experience to support the identification and management of project dependencies, risks and issues alongside your Delivery Lead. After observing team ceremonies and building relationships with the client stakeholders, you will start to take responsibility for running meetings, answering client questions and unblocking team problems. 
 
 With support, you will use your excellent attention to detail to ensure the project is delivered within budget, using tools such as Google Sheets to match up the time spent by the team with the amount of work left to complete.
 
